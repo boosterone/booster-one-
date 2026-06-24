@@ -54,6 +54,7 @@ export default function RootLayout({
         />
         <meta name="theme-color" content="#080808" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="vSoW_VPQggxAHuJgv56WVbKO-kAbZAoDa8m_Zl9_9zE" />
       </head>
       <body>{children}</body>
     </html>
