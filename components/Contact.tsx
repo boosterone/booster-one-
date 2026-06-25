@@ -76,7 +76,7 @@ export default function Contact() {
 
             {/* LINE CTA */}
             <a
-              href="https://line.me/R/ti/p/@boosterone"
+              href="https://line.me/R/ti/p/@522awatg"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 p-5 rounded-xl border border-[rgba(0,195,0,0.3)] bg-[rgba(0,195,0,0.05)] hover:bg-[rgba(0,195,0,0.1)] hover:border-[rgba(0,195,0,0.6)] transition-all duration-300 mb-5 group"

@@ -37,7 +37,7 @@ export default function LineFloat() {
 
       {/* LINE button */}
       <a
-        href="https://line.me/R/ti/p/@boosterone"
+        href="https://line.me/R/ti/p/@522awatg"
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 sm:w-16 sm:h-16 bg-[#00B900] rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(0,185,0,0.5)] hover:shadow-[0_6px_30px_rgba(0,185,0,0.7)] hover:scale-110 active:scale-95 transition-all duration-200 line-btn-pulse"

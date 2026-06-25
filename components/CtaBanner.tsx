@@ -37,7 +37,7 @@ export default function CtaBanner() {
               無料相談を申し込む →
             </button>
             <a
-              href="https://line.me/R/ti/p/@boosterone"
+              href="https://line.me/R/ti/p/@522awatg"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 bg-[#00B900] hover:bg-[#00A500] text-white px-10 py-4 rounded-full font-bold tracking-wider text-base transition-colors duration-200"
